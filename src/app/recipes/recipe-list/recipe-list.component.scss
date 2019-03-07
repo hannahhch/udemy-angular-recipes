@@ -1,0 +1,18 @@
+img {
+    max-height: 50px;
+    margin-left: 25px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.recipe-item {
+    display: flex;
+    background-color: lightblue;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
